@@ -20,4 +20,4 @@ count has been increased or decreased in a particular time period. The graphical
 representation would provide an overall gist of the patient record and will help to
 research the overall statistics of the patient count for a particular period of time.
 
-Technologies Used: Hadoop MapReduce, Node.js, Javascript, Bootstrap, HTML5 & CSS3.
+Technologies Used: Scala, MongoDb, Node.js, Javascript, Bootstrap, HTML5 & CSS3.
